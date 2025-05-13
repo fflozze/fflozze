@@ -4,7 +4,7 @@
 
 ## 📌 À propos de moi
 
-Bonjour, je m'appelle Flozze. 👋 Je suis actuellement en formation pour devenir développeur web full stack. 💻 En tant que personne autiste, je trouve une passion particulière dans le monde du software et du hardware. 🖥️🔧 J'ai toujours été fasciné par les mathématiques et la physique, et j'ai développé mes compétences principalement de manière autodidacte. 📚✨ À 20 ans, je suis également une personne trans, et je m'efforce de combiner mes passions avec mon parcours professionnel. 🌈
+Bonjour, je m'appelle Flozze. 👋 Je suis actuellement en formation pour devenir développeur web full stack. 💻 En tant que personne autiste, je trouve une passion particulière dans le monde du software et du hardware. 🖥️🔧 J'ai toujours été fasciné par les mathématiques et la physique, et j'ai développé mes compétences principalement de manière autodidacte. 📚✨ À 20 ans, je suis également une personne faisant partie de la communauté LGBT, et je m'efforce de combiner mes passions avec mon parcours professionnel. 🌈
 
 ## 🛠️ Compétences Techniques
 
