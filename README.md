@@ -1,10 +1,10 @@
 # 🌟 Flozze
 
-👨‍💻 Développeur Full Stack
+👩‍💻 Développeuse Web Full Stack
 
 ## 📌 À propos de moi
 
-Bonjour, je m'appelle Flozze. 👋 Je suis actuellement en formation pour devenir développeur web full stack. 💻 En tant que personne autiste, je trouve une passion particulière dans le monde du software et du hardware. 🖥️🔧 J'ai toujours été fasciné par les mathématiques et la physique, et j'ai développé mes compétences principalement de manière autodidacte. 📚✨ À 20 ans, je suis également une personne faisant partie de la communauté LGBT, et je m'efforce de combiner mes passions avec mon parcours professionnel. 🌈
+Bonjour, je m'appelle Flozze. 👋 Je suis actuellement en formation pour devenir développeuse web full stack. 💻 En tant que personne autiste, je trouve une passion particulière dans le monde du software et du hardware. 🖥️🔧 J'ai toujours été fascinée par les mathématiques et la physique, et j'ai développé mes compétences principalement de manière autodidacte. 📚✨ À 20 ans, je suis également une personne faisant partie de la communauté LGBT, et je m'efforce de combiner mes passions avec mon parcours professionnel. 🌈
 
 ## 🛠️ Compétences Techniques
 
@@ -16,7 +16,7 @@ Voici un aperçu des technologies et outils avec lesquels je travaille :
   - Compétences en conception et développement d'interfaces utilisateur réactives et esthétiques.
 - **Backend** : Node.js 🚀
   - Développement de serveurs et d'APIs robustes.
-- **Bases de Données** : MongoDB 🗃️
+- **Databases** : MongoDB 🗃️
   - Gestion et manipulation de bases de données NoSQL.
 - **ORM** : Prisma 🛠️
   - Utilisation pour simplifier les interactions avec les bases de données.
@@ -34,7 +34,10 @@ En dehors du développement, j'aime explorer divers sujets liés à la technolog
 - La participation à des projets open source. 🌍
   - Contribution à des projets communautaires et collaboration avec d'autres développeurs.
 - La lecture et la recherche sur des sujets liés à l'informatique et à la physique. 📖
-  - Passionné par la compréhension des concepts fondamentaux et des innovations technologiques.
+  - Passionnée par la compréhension des concepts fondamentaux et des innovations technologiques.
+- La forensics numérique et la sécurité informatique. 🔐
+  - Intérêt pour l'analyse forensics et la protection des systèmes informatiques en tant que white hat.
+
 
 ## 📬 Contact
 
@@ -44,4 +47,4 @@ N'hésite pas à me contacter pour discuter de collaborations, poser des questio
 
 ## ⚠️ Note sur la Rédaction
 
-Ce texte a été généré avec l'aide d'une intelligence artificielle pour m'aider à communiquer plus efficacement, car je suis dysorthographique et dysgraphique. Cela signifie que j'ai des difficultés avec l'orthographe et l'écriture, et l'IA me permet de partager mes idées et mes compétences sans être limité par ces défis. 😊
+Ce texte a été généré avec l'aide d'une intelligence artificielle pour m'aider à communiquer plus efficacement, car je suis dysorthographique et dysgraphique. Cela signifie que j'ai des difficultés avec l'orthographe et l'écriture, et l'IA me permet de partager mes idées et mes compétences sans être limitée par ces défis. 😊
