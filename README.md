@@ -1,14 +1,16 @@
 <div align="center">
 
-
+<!-- Header Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:F744F6,100:4C9AFF&height=180&section=header&text=&fontSize=0" />
 </p>
 
+<!-- Profile Name Image -->
 <p align="center">
   <img src="https://fontmeme.com/temporary/56d210ca7261aaf5c510b0ccd3db4bc5.png" alt="Flozze" border="0" width="300">
 </p>
 
+<!-- Dynamic Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=DynaPuff&weight=650&duration=4500&pause=1000&color=F744F6&center=true&vCenter=true&width=435&lines=Secure+%26+Well+Documented+Code;Full+Stack+Web+Developer;Local+AI+%2F+Homelabs+%2F+Security" alt="Typing SVG" />
@@ -17,6 +19,7 @@
 
 ---
 
+<!-- About Me Section -->
 <p align="center">
   <img src="https://fontmeme.com/temporary/9ad603316ece07ed67174c6df778cf3b.png" alt="" border="0" width="200">
 </p>
@@ -29,12 +32,14 @@
   I am 21 years old, I am LGBT even though I avoid making it the center of attention, and I take pride in writing secure and well-documented code.
 </p>
 
+<!-- Skills Section -->
 <p align="center">
   <img src="https://fontmeme.com/temporary/e605c280ac042af4ba895c83811a42dd.png" alt="" border="0" width="400">
 </p>
 
 <div align="center">
   <table>
+    <!-- Core Languages Row -->
     <tr>
       <td align="center" colspan="3">
         <br>
@@ -55,6 +60,7 @@
         High-Perf Runtime
       </td>
     </tr>
+    <!-- Frameworks & Databases Row -->
     <tr>
       <td align="center" colspan="3">
         <br>
@@ -75,6 +81,7 @@
         Relational DB
       </td>
     </tr>
+    <!-- DevOps Tools Row -->
     <tr>
       <td align="center" colspan="3">
         <br>
@@ -98,6 +105,7 @@
   </table>
 </div>
 
+<!-- Interests Section -->
 <p align="center">
   <img src="https://fontmeme.com/temporary/8c5cbeed508f30771d07e81fdae916c7.png" alt="" border="0" width="300">
 </p>
@@ -135,6 +143,7 @@
   </table>
 </div>
 
+<!-- Footer/Contact Section -->
 <p align="center">
   <img src="https://fontmeme.com/temporary/e7fff24ff4e33bd9a2f70c5fd188b6e7.png" alt="" border="0" width="250">
 </p>
@@ -142,18 +151,20 @@
   Feel free to contact me to discuss collaborations, ask questions, or simply exchange about our common passions!
 </p>
 
+<!-- Social Links -->
 <p align="center">
   <a href="mailto:flozze_vt@proton.me">
     <img src="https://img.shields.io/badge/Mail-D44D4D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://discord.com/users/yourdiscordid">
+  <a href="https://discord.com/users/fflozze">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <a href="https://github.com/Flozze">
+  <a href="https://github.com/fflozze">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
+<!-- Footer Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C9AFF,50:F744F6,100:8A2BE2&height=120&section=footer" />
 </p>
