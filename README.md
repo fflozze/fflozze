@@ -7,7 +7,7 @@
 
 <!-- Profile Name Image -->
 <p align="center">
-  <img src="https://fontmeme.com/temporary/56d210ca7261aaf5c510b0ccd3db4bc5.png" alt="Flozze" border="0" width="300">
+  <img src="https://fontmeme.com/permalink/260701/d48d25d3.png" alt="Flozze" border="0" width="300">
 </p>
 
 <!-- Dynamic Typing Animation -->
@@ -21,7 +21,7 @@
 
 <!-- About Me Section -->
 <p align="center">
-  <img src="https://fontmeme.com/temporary/9ad603316ece07ed67174c6df778cf3b.png" alt="" border="0" width="200">
+  <img src="https://fontmeme.com/permalink/260701/49668c78.png" alt="" border="0" width="200">
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@
 
 <!-- Skills Section -->
 <p align="center">
-  <img src="https://fontmeme.com/temporary/e605c280ac042af4ba895c83811a42dd.png" alt="" border="0" width="400">
+  <img src="https://fontmeme.com/permalink/260701/161c2cb2.png" alt="" border="0" width="200">
 </p>
 
 <div align="center">
@@ -107,7 +107,7 @@
 
 <!-- Interests Section -->
 <p align="center">
-  <img src="https://fontmeme.com/temporary/8c5cbeed508f30771d07e81fdae916c7.png" alt="" border="0" width="300">
+  <img src="https://fontmeme.com/permalink/260701/b0e935a4.png" alt="" border="0" width="300">
 </p>
 
 <div align="center">
@@ -145,7 +145,7 @@
 
 <!-- Footer/Contact Section -->
 <p align="center">
-  <img src="https://fontmeme.com/temporary/e7fff24ff4e33bd9a2f70c5fd188b6e7.png" alt="" border="0" width="250">
+  <img src="https://fontmeme.com/permalink/260701/e5376ec8.png" alt="" border="0" width="250">
 </p>
 <p align="center">
   Feel free to contact me to discuss collaborations, ask questions, or simply exchange about our common passions!
